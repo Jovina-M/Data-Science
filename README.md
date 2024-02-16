@@ -1,1 +1,1 @@
-# DSC
+# Data Science
